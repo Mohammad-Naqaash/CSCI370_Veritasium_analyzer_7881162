@@ -38,6 +38,8 @@ https://ollama.com
 - ollama pull nomic-embed-text
 - ollama pull embeddinggemma
 
+To make sure no errors occur or no processes get stuck anywhere, make sure the Ollama app is running in the background or make sure the Ollama app icon is visible in the taskbar. 
+
 ## FAISS Vector Store
 
 The FAISS store is inlcuded as `veritasium_faiss_store_2.zip`
