@@ -35,7 +35,12 @@ https://ollama.com
 - ollama pull nomic-embed-text
 - ollama pull embeddinggemma
 
-## Rebuild the faiss
+## FAISS Vector Store
+
+The FAISS store is inlcuded as `veritasium_faiss_store_2.zip`
+Unzip this before runnig the dashboard.
+It is important the name should not be changed as it is used in the code. Make sure the name is the same.
+No reuilding needed. 
 
 # After all of this you are ready ot open the dashboard/ Run the application:
 
