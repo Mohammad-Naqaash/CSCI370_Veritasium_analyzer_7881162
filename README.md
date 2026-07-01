@@ -12,10 +12,13 @@ This can work on both python versions 3.10 and 3.11, but 3.11 is recommended.
 * Download the folder and open the folder in **Visual Studio Code**.
 
 * Open terminal and create the venv folder:
-`python -m venv venv`
+`py -m venv venv`
 
 or if you want a specific version of python:
-`python (python version) -m venv venv`
+`py (python version) -m venv venv`
+
+Or this easy command:
+`py -3.11 -m venv venv`
 
 * Activate the venv environment through terminal:
 `.\venv\Scripts\activate`
