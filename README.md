@@ -66,6 +66,8 @@ This will be used for evaluating the performance of the AI agent within the app 
 
 # Start main dashboard:
 
+**Open another terminal in VScode for main dashboard.**
+
 * Once thats done, open the app dashboard by executing this in the vs code terminal: `streamlit run dashboard.py`
 
 This will open on 'http://localhost:8501'
